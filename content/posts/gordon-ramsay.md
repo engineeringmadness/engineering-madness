@@ -4,6 +4,7 @@ date: 2023-06-24T10:40:54+05:30
 draft: false
 summary: "Parallels between cooking industry and software development"
 pinned: true
+tags: ["Software Engineering"]
 ---
 ## Its not about where you come from, Its about who you are
 For the uninitiated Gordon Ramsay is a celebrity michelin star chef known for his hilarious insults and rants. He has built a restaurant empire with multiple Michelin stars and is featured in hit television series like Masterchef and Hell's kitchen.

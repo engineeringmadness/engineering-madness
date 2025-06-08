@@ -4,6 +4,7 @@ date: 2024-04-07T11:34:15+05:30
 draft: false
 pinned: false
 summary: "The Way"
+tags: ["Software Engineering"]
 ---
 
 ## Setting the context

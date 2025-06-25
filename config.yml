@@ -132,10 +132,6 @@ menu:
       url: /tags/software-engineering/
       weight: 11
     - identifier: content
-      name: Books & TV Shows
+      name: Content Review
       url: /tags/content/
       weight: 12
-    - identifier: politics
-      name: Politics
-      url: /tags/politics/
-      weight: 13

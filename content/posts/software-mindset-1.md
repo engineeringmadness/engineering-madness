@@ -7,6 +7,8 @@ summary: "The Mindset"
 tags: ["Software Engineering"]
 ---
 
+![](/3.jpg)
+
 ## Setting the context
 
 Having worked in a fairly large team for the last 3 years I have come across different types of problems that occur in software development projects with regards to collaboration, communication, management, etc. While most projects have retrospective meetings where we discuss what went wrong and what can we do better regularly, I find these meetings to be restrictive in terms of the mindset of identifying problems, and therefore innovative solutions don’t seem to emerge from them. Having thought about these problems over a long period, I have condensed my point of view down to 3 key questions that any software team facing such problems must introspect about. Then they can work on coming up with their take on how these questions can be tackled. Why? Because the first step to solving any problem is acknowledging there is one.

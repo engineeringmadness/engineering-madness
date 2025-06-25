@@ -7,6 +7,8 @@ summary: "The Way"
 tags: ["Software Engineering"]
 ---
 
+![](/3.jpg)
+
 ## Setting the context
 
 Let's start from where I left off in the previous entry where we talked about finite vs infinite games. If you believe my hypothesis that many aspects of software projects can be modeled using an infinite game, the logical follow-up is how do we ensure we can sustain an infinite game compared and not slip back into a finite one? This brings me nicely to the second question.

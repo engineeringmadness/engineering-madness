@@ -6,6 +6,8 @@ summary: "Lessons in empathy and humility"
 tags: ["Software Engineering"]
 ---
 
+![](/1.jpg)
+
 ## What is a Platform
 
 > It is a foundation of **self-service** APIs, tools, services, knowledge, and support which are arranged as a **compelling** internal product - Evan Bottcher 

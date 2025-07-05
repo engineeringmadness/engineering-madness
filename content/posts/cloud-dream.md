@@ -6,7 +6,7 @@ summary: "False hopes and the Cloud Migration Epidemic"
 pinned: false
 ---
 
-![](/banner4.png)
+![](/6.jpg)
 
 We were sold a dream, No more worrying about hardware provisioning time, patching infrastructure, monitoring and maintenance.
 

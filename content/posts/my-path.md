@@ -3,7 +3,7 @@ title: "Fork in the road (Part 1)"
 date: 2025-07-05T09:47:46+05:30
 draft: false
 pinned: false
-summary: "What really matters"
+summary: "Where have I been"
 tags: ["Software Engineering"]
 ---
 

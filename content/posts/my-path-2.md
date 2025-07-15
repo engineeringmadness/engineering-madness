@@ -1,9 +1,9 @@
 ---
-title: "Fork in the road Act 2"
+title: "Where do I go from here"
 date: 2025-07-06T09:47:46+05:30
 draft: false
 pinned: false
-summary: "What really matters"
+summary: "Why I do what I do"
 tags: ["Software Engineering"]
 ---
 

@@ -131,7 +131,3 @@ menu:
       name: Software Engineering
       url: /tags/software-engineering/
       weight: 11
-    - identifier: content
-      name: Content Review
-      url: /tags/content/
-      weight: 12

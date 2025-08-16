@@ -131,3 +131,7 @@ menu:
       name: Software Engineering
       url: /tags/software-engineering/
       weight: 11
+    - identifier: general
+      name: General
+      url: /tags/general/
+      weight: 11

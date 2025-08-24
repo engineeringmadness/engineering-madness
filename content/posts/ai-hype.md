@@ -1,9 +1,9 @@
 ---
-title: "AI: The Age of Silver Bullets"
+title: "The AI Dream is crumbling"
 date: 2025-08-23T11:34:15+05:30
 draft: false
 pinned: false
-summary: "Cause I'm a punk rocker"
+summary: "Cause contrarian takes are my jam"
 tags: ["Software Engineering"]
 ---
 
@@ -27,15 +27,23 @@ In a post-Covid world fraught with recession, mass layoffs, and drying-up ventur
 
 In most enterprise companies right now, you will hear things like "We are launching initiatives for 'Using Gen AI for X'" or hackathon statements like "Agentic AI for Y." This pattern is something I have seen quite often in the past too—Data Mesh, Blockchain, Microservices. Speaking those magic words regardless of the context of a problem gets you a pat on the back by the talking heads. But of course, this approach is backwards. The key to creating a good solution is to start with the problem first and then pick the tool best suited.
 
-### Reductive UX
-
-Chat is quite possibly the worst user experience for a multitude of use cases. Of course, it makes sense in a few cases as well, e.g., customer support where people are already used to a chat-like interface. For everything else, we have years of muscle memory for how to operate mobile and web UI, and chat removes all that leverage for designers. Intuitive controls, beautiful UI elements, smooth transitions—all the frontend craft gone straight out of the window. E.g., if I want to plan a trip, instead of speed running through options, I have to sit and chat with a bot who will go ahead and find me options.
-
 ### Fetish for Everything Micro
 
 Honestly, this one is bizarre, but solution architects love everything that involves making small colorful boxes, and Agentic workflows are a perfect match. Whether it be microservices or micro-frontends or agentic workflows, the more the boxes, the merrier. My hypothesis is that the increased complexity gives a natural ego boost by making people feel that whatever they are doing is hard and important. As Terry Davis brilliantly puts it—
 
 > An idiot admires complexity, a genius admires simplicity
+
+
+## The Obvious Problems
+
+### Cost
+
+With most LLMs being black box systems, cost management is always tricky. The recent hiccups with AI-powered IDEs such as Claude Code and Cursor clearly show that agents that can actually produce quality output require a bucketload of tokens. Any kind of fixed-cost plan becomes completely unviable as soon as token usage goes outside reasonable boundaries, and you basically end up with a money-burning machine. Another interesting thing that is not talked about as much in the news is throughput issues on enterprise deployments. Basically, if a particular data center is facing high traffic, your LLM request can go from 5–10 seconds to a couple of minutes, making it 10–20x slower, which can absolutely ruin the user experience if not handled correctly. The only alternative is to pay hefty sums of money to reserve throughput upfront. These payments can be on the order of tens of thousands of dollars per month.
+
+
+### Reductive UX
+
+Chat is quite possibly the worst user experience for a multitude of use cases. Of course, it makes sense in a few cases as well, e.g., customer support where people are already used to a chat-like interface. For everything else, we have years of muscle memory for how to operate mobile and web UI, and chat removes all that leverage for designers. Intuitive controls, beautiful UI elements, smooth transitions—all the frontend craft gone straight out of the window. E.g., if I want to plan a trip, instead of speed running through options, I have to sit and chat with a bot who will go ahead and find me options.
 
 ## How I use LLMs
 

@@ -47,7 +47,7 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/richard.jpg"
+    favicon: "/richard.png"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
@@ -55,7 +55,7 @@ params:
 
   label:
     text: "Engineering Madness"
-    icon: "/richard.jpg"
+    icon: "/richard.png"
     iconHeight: 35
 
   # profile-mode

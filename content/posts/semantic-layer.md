@@ -56,9 +56,15 @@ Here is a laundry list of the ingredients that may or may not be included in a S
 5. **Dimensions** - These are lines along which you want to slice and dice the data and the metrics. For e.g., region, country, age 
 6. **General Information** - Unstructured information on business processes, SOPs are unique to your specific industry or company.
 
-## Why is it back in Fashion
+## Why does it have to do with AI
 
-While the Semantic layer is a pretty old concept and has existed in the Legacy BI world for eons in tools like Power BI, It has seen a renaissance in recent times due to the craze of Text2SQL-based chatbots. In simple terms, everyone is building these chatbots that convert natural language queries into SQL queries and then fire that onto a data platform and report back the answers in tabular format or using visualizations automatically. These Chatbots usually do great in demos where the schema has a couple of long tables, but as soon as you go for any kind of complex data model, these LLMs fumble miserably. They select wrong columns, join keys, and apply incorrect WHERE clauses which result in garbage output. Here's where Semantic layers come into play by providing more context to LLM, hence helping it make more informed choices when formulating queries.
+While the Semantic layer is a pretty old concept that has existed in the Legacy BI world for eons in tools like Power BI, it has seen a renaissance in recent times due to the craze for Text2SQL-based chatbots. In simple terms, everyone is building chatbots that respond with data-driven insights when asked questions in Natural language. 
+
+Behind the scenes, this usually involves converting the user's prompt into a SQL query via an LLM and then piping that onto a data platform / warehouse / database and reporting back the answers in tabular format or using visualizations automatically. The latter part of this flow is being done using good old-fashioned procedural code. 
+
+These Chatbots usually do great in demos where the schema has 1-2 highly denormalized tables, but as soon as you go for any kind of complex data model, these LLMs fumble miserably in the query creation phase. They select the wrong columns due to vague names, join tables on incorrect keys, and apply incorrect filter values for flag columns etc. which result in garbage output. Here's where Semantic layers come into play by providing more context about the data model to LLM, hence helping it make more informed choices when formulating queries.
+
+Additionally, the business user's usually ask for insights in terms of common business metrics, but due to the inherent probabilistic nature of LLMs, even questions around the same metrics may result in completely different formulae being used in generated queries. This can cause trust issues in the data platform itself. Semantic layers also remedy this by being the centralized metric store, also referred to as Single Source of Truth (SSOT) where the metric definitions are hand-crafted and pre-verified by data scientists & analysts.
 
 ## Where Do you put it
 
@@ -77,3 +83,5 @@ If you don't have a pile of extra money to burn because you already burned all y
 ## People are still Skeptical
 
 As I said, semantic layers have been around forever in the BI world, but haven't really made it big outside the data community. Maybe because there is no precise definition of the concept. Every vendor has their own take and implementation without any standardization whatsoever. Hence, we have separate syntax and mechanisms for each implementation. There has been some headway in this direction recently. Snowflake has brought together a new consortium called [the Open Semantic Interchange (OSI)](https://www.snowflake.com/en/blog/open-semantic-interchange-ai-standard/) that is supposed to bring standardization in this space. The consortium consists of some big names like dbt Labs, Mistral AI, Salesforce, Thoughtspot, and Cube, but is lacking in many notable ones too, like Databricks, Microsoft, and OpenAI. What comes of this is yet to be seen, but these are surely exciting times indeed. 
+
+Remain tuned in for Part 2 of this article which will use a real life demo to showcase the power of Semantic layers !

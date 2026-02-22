@@ -75,15 +75,14 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: ""
-    Name: ""
-    Link: ""
+    Title: "About Me"
+    Content: "Add your short bio here. Keep it to a few lines about what you build, write, or care about."
 
-  # socialIcons:
-  #   - name: github
-  #     url: "https://github.com/compscikaran"
-  #   - name: threads
-  #     url: "https://www.threads.net/@compscikaran"
+  socialIcons:
+    - name: fable
+      url: "https://fable.co/fabler/karan-gupta-325392096590"
+    - name: letterboxd
+      url: "https://letterboxd.com/engineeringmad/"
 
   # projects:
   #   - name: 'DuxJava'

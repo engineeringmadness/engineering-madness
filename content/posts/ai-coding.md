@@ -50,15 +50,9 @@ Vercel hosts an open directory of skills developed in open source - https://skil
 
 ### Resources
 
-General Conceptual Stuff
-
 1. [AI Assisted Development Course by Anthony Alicea](https://dontimitate.dev/courses/ai-assisted-development/)
 2. [Steering Agents](https://dev.to/datadog-frontend-dev/steering-ai-agents-in-monorepos-with-agentsmd-13g0)
 3. [Senior Engineer's Guide to AI Coding](https://www.youtube.com/watch?v=LvLdNkgO-N0)
+4. [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
 
-Agent Specific Resources
-
-1. [Getting started with Codex CLI](https://www.youtube.com/watch?v=px7XlbYgk7I)
-2. [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
-
-3. [OpenCode Crash Course](https://www.youtube.com/watch?v=WXffHkvfRpM)
+5. [MCP: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics)

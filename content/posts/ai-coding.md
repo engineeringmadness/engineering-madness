@@ -25,9 +25,7 @@ There are 3 ways to consume LLMs for coding agents:
 
 What I am picking - 
 
-**Kimi K2.5** - It's basically Claude Sonnet for cheapskates like me. This could be my main workhorse as it's the model that's actually affordable at API rates 
-
-**GPT 5.3 Codex**  / **Claude Opus 4.6** - Leading edge model by OpenAI / Anthropic for coding tasks. These are quite expensive at API rates so I am going to use this for more complex coding tasks and plan mode.
+**Kimi K2.5** - It's basically Claude for cheapskates like me. This could be my main workhorse as it's the model that's actually affordable at API rates.
 
 ### Step 2
 
@@ -38,7 +36,7 @@ Selecting the harness that works best for you i.e. the tooling that wraps the LL
 
 Something just clicked for me with this approach, but the choice can vary from person to person depending on their preferences.
 
-**OpenCode** emerged as the obvious choice for my personal usage primarily because it's open source and compatible with almost all LLM providers, therefore preventing vendor lock-in. It also comes with Plan/Build mode loop which I plan to use to delegate tasks between different models, support for custom skills, and MCP servers.
+**Claude Code** emerged as the obvious choice for my personal usage primarily because its fully featured, has tons of handy commands support for custom skills, and MCP servers and can be used without a subscription for the most part by using Kimi's API URL which is compatible with the Anthropic API spec. I was also intrigued by the remote control feature which lets you control your Claude Code session from a mobile device. 
 
 ### Step 3
 

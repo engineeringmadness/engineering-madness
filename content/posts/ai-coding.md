@@ -36,7 +36,7 @@ Selecting the harness that works best for you i.e. the tooling that wraps the LL
 
 Something just clicked for me with this approach, but the choice can vary from person to person depending on their preferences.
 
-**Claude Code** emerged as the obvious choice for my personal usage primarily because its fully featured, has tons of handy commands support for custom skills, and MCP servers and can be used without a subscription for the most part by using Kimi's API URL which is compatible with the Anthropic API spec. I was also intrigued by the remote control feature which lets you control your Claude Code session from a mobile device. 
+**Claude Code** emerged as the obvious choice for my personal usage primarily because its fully featured, has tons of handy commands support for custom skills, and MCP servers and can be used without a subscription for the most part by using Kimi's API URL which is compatible with the Anthropic API spec.
 
 ### Step 3
 
@@ -53,4 +53,4 @@ Vercel hosts an open directory of skills developed in open source - https://skil
 3. [Senior Engineer's Guide to AI Coding](https://www.youtube.com/watch?v=LvLdNkgO-N0)
 4. [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
 
-5. [MCP: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics)
+5. [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)

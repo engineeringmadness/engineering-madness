@@ -124,3 +124,12 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+menu:
+  main:
+    - name: Zettels
+      url: /tags/zettels/
+      weight: 10
+    - name: All Posts
+      url: /posts/
+      weight: 20

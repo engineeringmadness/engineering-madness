@@ -4,6 +4,7 @@ date: 2025-11-08T11:14:18+05:30
 draft: false
 pinned: false
 summary: "The Missing Piece in AI Landscape"
+tags: ["Software Engineering"]
 ---
 
 ![](/8.png)

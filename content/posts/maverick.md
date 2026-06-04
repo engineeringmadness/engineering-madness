@@ -21,11 +21,13 @@ Lastly, I tried out a niche tool called Command Code with Deepseek V4 Pro. I rea
 
 ### It's Where I Belong
 
-The most problematic part of AI coding is that it sucks the joy out of coding. The models, even the fastest ones are not fast enough and more importantly are not precise enough. And NO, IT'S NOT A SKILL ISSUE. I have tried all kinds of skills and tools and hooks to enhance the AI generated code and it simply does not help.
+The most problematic part of AI coding is that it sucks the joy out of coding. The models, even the fastest ones are not fast enough and more importantly are not precise enough. And NO, IT'S NOT A SKILL ISSUE. I have tried all kinds of skills and tools and hooks to enhance the AI generated code and it simply does not help for complex codebases.
 
-The most frustrating part is how the AI generated code is broken in fundamentally inhuman and unpredictable ways. For example when I was using Copilot to generate a python script it decided to use a mix of tabs and spaces which is not allowed by the syntax. This is because LLMs don't go about coding the same way a human would. 
+The most frustrating part is how the AI generated code is broken in fundamentally inhuman and unpredictable ways. For example when I was using Copilot to generate a python script it decided to use a mix of tabs and spaces which is not allowed by the syntax. This is because LLMs don't go about coding the same way a human would. The key difference being that humans write code semantically whereas LLMs write code statistically.
 
-So here's my conclusion. I reject this ludicrous proposition that we all need to be Agent managers. F*** that. I am going to be a manual coding engineer for as long as I can be and when the day of reckoning finally arrives, they replace us then I will go do something else. And what about progressing in my career you may ask ?
+So here's my conclusion. I reject this ludicrous proposition that we all need to be Agent managers. Screw that. I am going to be a "manual coding engineer" for as long as I can be and when the day of reckoning finally arrives, they replace us then I will go do something else. I still use OpenCode / Databricks Genie at work for boring tasks such as one off PowerShell / Python scripts or automation boilerplate.
+
+I have always thought that I would remain a programmer even at the end of my career, but the reality is that the corporate ladder for an individual contributor simply does not exist beyond a certain point. I have maybe one, or at most two, promotions left in my career so there is no need to rush it. Hopefully there is a workplace somewhere which will value human expertise still a few years down the line.
 
 There's a point in the movie where Ed Harris' character says:
 
@@ -35,7 +37,7 @@ Maverick replies
 
 >  "It's where I belong". 
 
-He is referring to the fact that he's still inside the cockpit, flying the planes, pushing the limits.  I have always thought that I would remain a programmer even at the end of my career, but the reality is that the corporate ladder for an individual contributor simply does not exist beyond a certain point. I have maybe one, or at most two, promotions left in my career so there is no need to rush it. Hopefully there is a workplace somewhere which will value human expertise still a few years down the line.
+He is referring to the fact that he's still inside the cockpit, flying the planes, pushing the limits.  
 
 ### Not Today
 

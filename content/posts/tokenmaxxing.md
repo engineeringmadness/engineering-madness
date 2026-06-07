@@ -9,23 +9,23 @@ tags: ["Shorts"]
 
 ### What is it
 
-For the uninitiated, Tokenmaxxing is a trend in the software industry where people are incentivized to use as many tokens as they can. Often times this phenomena was gamified with company wide leaderboards showcasing people who used the most tokens. 
+For the uninitiated, Tokenmaxxing is a trend in the software industry where people are incentivized to use as many tokens as they can. Often times this phenomena is gamified with company wide leaderboards showcasing people who used the most tokens. 
 
-To understand the absurdity of this idea one has to fundamentally differentiate between Inputs, Outputs and Outcomes. When a human writes software the inputs could be time, documents, meetings etc. the output being lines of code written and the outcome being hopefully solving a problem. 
+To understand the absurdity of this idea one has to fundamentally differentiate between Inputs, Outputs and Outcomes. When a human writes software the inputs could be time, documents, meetings etc. the output being lines of code written and the outcome being hopefully solving a business problem. 
 
 ### Understanding the Stupidity
 
-We've seen trends like measuring LOCs (line of code) in the past as well which is basically a measurement of software engineering output. For any person with critical analysis skills it may be obvious that volume of output is not directly proportional to its quality and it does not guarantee any outcome whatsoever. For instance we often to lot of experiments, build MVPs that don't make it to production. 
+LOCs (line of code) which is basically a measurement of software engineering output was often used in the past to judge engineering performance. For any person with critical analysis skills it may be obvious that volume of code is not directly proportional to its quality and volume does not guarantee any outcome whatsoever. For instance we often write throwaway code to do experiments, build MVPs that don't make it to production. In other cases code may not be used due to change in business requirements or priorities.
 
-To quote Linus Torvalds, creator of Linux - "Anyone who thinks that's (LOCs) a valid metric is too stupid to work at a tech company".
+To quote Linus Torvalds, creator of Linux - "Anyone who thinks Lines of code is a valid metric is too stupid to work at a tech company".
 
-Now consider tokens which are unique in the sense that they can both form inputs (user prompt, file reads, web research) and outputs (lines of code, documentation). An average LLM request is composed of 80-85% input tokens and 15-20% output tokens. So when we're measuring token usage we're not even measuring outputs like LOC or commits, we're mostly measuring inputs 🤔. While outputs did not guarantee outcomes, inputs simply have no correlation with outcomes, which basically implies that measuring tokens is pointless. 
+Now consider "token usage" which is quite different from LOC in the sense tokens can both form inputs (user prompt, file reads, web research) and outputs (lines of code). An average LLM request is composed of 80-85% input tokens and 15-20% output tokens. So when we're measuring token usage we're not even measuring outputs let alone outcomes, we're mostly measuring inputs 🤔. While outputs did not guarantee outcomes, inputs simply have no correlation with outcomes, which basically implies that measuring tokens is pointless. 
 
 ### Why is it coming to an end
 
 Turns out the subscription plans that enabled this kind of extreme usage of tokens were never sustainable. Both Anthropic and OpenAI lost tons of money on these 20 dollar / 40 dollar plans. The equivalent cost of the tokens at API pricing would often range from 200 - 1500 dollars, which is a loss of 90%.
 
-In the enterprise companies the tokenmaxxing trend was killed primarily by [GitHub Copilot switching from a requests model to API based usage]({{% relref "ai-billing-shift.md" %}}). People who had been heavily using (or abusing) the generous limits of GitHub Copilot reporting on reddit that they've exhausted 25% - 50% of their monthly usage after just few days. 
+In the enterprise companies the tokenmaxxing trend was killed primarily by [GitHub Copilot switching from a requests model to API based usage]({{% relref "ai-billing-shift.md" %}}). People who had been heavily using (or abusing) the generous limits of GitHub Copilot reporting that they've exhausted 25% - 50% of their monthly usage after just few days. 
 
 ### Conclusion
 

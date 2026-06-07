@@ -4,7 +4,7 @@ date: 2026-05-02T11:00:00+05:30
 draft: false
 summary: "Why AI coding will inevitably move to API-based usage billing"
 pinned: false
-tags: ["Zettels"]
+tags: ["Shorts"]
 ---
 
 Fixed-cost AI coding subscriptions are financially unsustainable - the economics simply don't work long term. Vendors are bleeding money on heavy users while casual subscribers subsidize nothing. My prediction: the entire industry will shift to API-based usage billing, where you pay only for the compute you actually consume.

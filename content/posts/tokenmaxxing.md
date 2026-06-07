@@ -4,7 +4,7 @@ date: 2026-06-07T07:51:28+05:30
 draft: false
 pinned: false
 summary: "Its Magnificent"
-tags: ["Zettels"]
+tags: ["Shorts"]
 ---
 
 ### What is it

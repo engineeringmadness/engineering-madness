@@ -130,8 +130,8 @@ markup:
 
 menu:
   main:
-    - name: Zettels
-      url: /tags/zettels/
+    - name: Shorts
+      url: /tags/shorts/
       weight: 10
     - name: All Posts
       url: /posts/

@@ -4,7 +4,6 @@ date: 2024-04-04T20:22:02+05:30
 draft: false
 pinned: false
 summary: "The Mindset"
-tags: ["Software Engineering"]
 ---
 
 ![](/3.jpg)

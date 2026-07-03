@@ -4,7 +4,6 @@ date: 2025-07-15T09:47:46+05:30
 draft: false
 pinned: false
 summary: "Why I do what I do"
-tags: ["Software Engineering"]
 ---
 
 ![](/5.jpg)

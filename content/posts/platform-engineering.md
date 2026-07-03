@@ -3,7 +3,6 @@ title: "Platform Engineering 💟"
 date: 2025-01-19T12:51:42+05:30
 draft: false
 summary: "Lessons in empathy and humility"
-tags: ["Software Engineering"]
 ---
 
 ![](/1.jpg)

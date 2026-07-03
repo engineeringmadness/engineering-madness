@@ -4,7 +4,6 @@ date: 2025-04-09T18:38:46+05:30
 draft: false
 pinned: false
 summary: "A path to enlightenment"
-tags: ["Software Engineering"]
 ---
 
 ![](/2.jpg)

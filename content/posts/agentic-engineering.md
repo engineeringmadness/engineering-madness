@@ -4,7 +4,6 @@ date: 2026-04-30T10:50:09+05:30
 draft: false
 pinned: false
 summary: "Extreme Cringe unlocked"
-tags: ["Software Engineering"]
 ---
 
 ### What is this about

@@ -4,7 +4,6 @@ date: 2025-07-05T09:47:46+05:30
 draft: false
 pinned: false
 summary: "Where have I been"
-tags: ["Software Engineering"]
 ---
 
 ![](/4.jpg)

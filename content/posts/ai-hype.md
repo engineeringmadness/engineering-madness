@@ -4,7 +4,6 @@ date: 2025-08-23T11:34:15+05:30
 draft: false
 pinned: false
 summary: "Cause contrarian takes are my jam"
-tags: ["Software Engineering"]
 ---
 
 ![](/7.jpg)

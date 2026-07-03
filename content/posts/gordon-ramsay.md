@@ -4,7 +4,6 @@ date: 2023-06-24T10:40:54+05:30
 draft: false
 summary: "Parallels between cooking industry and software development"
 pinned: true
-tags: ["Software Engineering"]
 ---
 
 ![](/gordon-ramsay.jpg)

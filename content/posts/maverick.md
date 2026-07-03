@@ -4,7 +4,6 @@ date: 2026-05-29T20:39:18+05:30
 draft: false
 pinned: false
 summary: "I'm done with AI Coding"
-tags: ["Software Engineering"]
 ---
 
 ![](/14.jpg)

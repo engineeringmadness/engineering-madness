@@ -4,7 +4,6 @@ date: 2026-03-14T11:34:15+05:30
 draft: false
 pinned: false
 summary: "AI skeptic's guide to starting with AI-assisted coding tools"
-tags: ["Software Engineering"]
 ---
 
 We're told every once in a while by Anthropic that almost all code will be written by AI in the next 6 months. Honestly, how Dario Amodei has any credibility left is beyond me. When it comes to AI tooling, I would rather listen to people who actually are known for software engineering and are legends of our industry. People like Uncle Bob, Kent Beck, James Gosling, DHH, Kailash Nadh etc. The take that makes the most sense to me is -

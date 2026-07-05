@@ -24,7 +24,7 @@ Now consider "token usage" which is quite different from LOC in the sense tokens
 
 Turns out the subscription plans that enabled this kind of extreme usage of tokens were never sustainable. Both Anthropic and OpenAI lost tons of money on these 20 dollar / 40 dollar plans. The equivalent cost of the tokens at API pricing would often range from 200 - 1500 dollars, which is a loss of 90%.
 
-In the enterprise companies the tokenmaxxing trend was killed primarily by [GitHub Copilot switching from a requests model to API based usage]({{% relref "ai-billing-shift.md" %}}). People who had been heavily using (or abusing) the generous limits of GitHub Copilot reporting that they've exhausted 25% - 50% of their monthly usage after just few days. 
+In the enterprise companies the tokenmaxxing trend was killed primarily by [GitHub Copilot switching from a requests model to API based usage](https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/). People who had been heavily using (or abusing) the generous limits of GitHub Copilot reporting that they've exhausted 25% - 50% of their monthly usage after just few days. 
 
 ### Conclusion
 
